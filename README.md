@@ -1,5 +1,8 @@
 # Langchain UI API
 
+## 🚨🚨 This repository is unmaintained 🚨🚨
+Note that this repository is unmaintained. We've started working on another approach which gives more granular access to LLM-powered Agents. Please check out out https://github.com/homanp/superagent. We appreciate all the feedback and contributions 🙏🙏🙏
+
 ## Getting started
 
 1. Clone the repo into a public GitHub repository (or fork https://github.com/homanp/langchain-ui-api/fork). If you plan to distribute the code, keep the source code public.
